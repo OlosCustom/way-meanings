@@ -744,7 +744,6 @@ sim quem gostaria|doubt
 ele é meu irmão não está|not_here
 não conheço|unknow
 e|doubt
-pronto oito pra quer|not_recognized
 seria sobre o que|doubt
 tudo bem alô|doubt
 vai caçar o que fazer|not_recognized
@@ -758,9 +757,7 @@ vai tomar no cu|not_recognized
 ai|doubt
 ai não|doubt
 ai não aqui não tem não|doubt
-boa noite ana boa tarde não|doubt
 boa tarde|doubt
-boa tarde é|doubt
 certo|doubt
 ela morreu de casa maneira|not_recognized
 então|doubt
@@ -768,15 +765,13 @@ okay|doubt
 okay josé o quê|doubt
 seria sobre o quê|doubt
 tá bom|doubt
-vai caçar que fazer não tá aqui não pelo amor de deus ela não tem problema|not_recognized
+vai caçar que fazer|not_recognized
 vai tomar no rabo|not_recognized
 vai tomar no seu cu|not_recognized
 vai tomar no teu cu|not_recognized
-vai tomar no teu cu eu não quero saber uma dívida que mosta ligação que não tá|not_recognized
 boa noite aqui já que não é boa tarde|doubt
 ela morreu recebe no dia foi hoje|not_recognized
-ela não tá aqui mas então alex|not_here
-oi|doubt
+ela não tá aqui mas então nome|not_here
 tudo|doubt
 tudo bem|doubt
 boa noite não assim quer falar com brenda não nem conheço|doubt
@@ -827,34 +822,62 @@ oito quatro não está disponível após o sinal grave a sua mensagem|not_recogn
 oito sete dois zero não está disponível após o sinal grave a sua mensagem|not_recognized
 olha|doubt
 poderia repetir o nome por favor|doubt
-quatro oito três seis não está disponível após o sinal grave a sua menor|not_recognized
-quatro zero seis quatro não está disponível após o sinal entendi olha sua mensagem|not_recognized
-quem fala|doubt
+quatro oito três seis não está disponível após o sinal grave a sua|not_recognized
+quatro zero seis quatro não está disponível após o sinal|not_recognized
 quer falar com a respeito do quê|doubt
 quero nove um zero seis não está disponível após o sinal|not_recognized
 quero zero oito sete dois zero não está disponível após o sinal|not_recognized
-seis quatro não está disponível após o sinal grave a sua mensagem imagina|not_recognized
+seis quatro não está disponível após o sinal grave a sua mensagem|not_recognized
 sete seis nove três oito quatro tá disponível|not_recognized
-sete sete três um zero não está disponível após o sinal então eu queria sua mensagem|not_recognized
+sete sete três um zero não está disponível após o sinal|not_recognized
 sim da onde é|yes
 sim tá falando|yes
 sou eu alô|yes
 tá disponível grave a sua mensagem após o sinal você pode desligar ligar quando terminar|not_recognized
 tá falando|yes
-tá falando com o raimundo pode dizer que que cê manda|yes
-tá não tá falando com o sebastião não|no
+tá falando com o nome|yes
+tá não tá falando com o nome não|no
 tá porque|yes
 tá senhora|yes
 telefone não é dela|unknow
 três oito dois seis não está disponível após o sinal|not_recognized
-três seis não está disponível após o sinal grave a sua mensagem digite|not_recognized
-um zero seis seis não está disponível após o sinal então tudo bem a sua mensagem|not_recognized
-um zero seis seis não está disponível após o sinal não grave agora no momento|not_recognized
-um zero seis seis não está disponível após o sinal qual grave a sua menor|not_recognized
-vamos entregar o seu recado assim que funciona|not_recognized
-vamos entregar o seu recado por favor|not_recognized
+três seis não está disponível após o sinal grave a sua mensagem|not_recognized
+um zero seis seis não está disponível após o sinal|not_recognized
+um zero seis seis não está disponível após o sinal qual grave a sua |not_recognized
+vamos entregar o seu recado assim|not_recognized
+vamos entregar o seu recado|not_recognized
 você tá falando|yes
 você zero zero oito sete dois zero não está disponível após o sinal|not_recognized
 zero oito sete dois zero não está disponível após o sinal|not_recognized
 zero seis seis não está disponível após o sinal da sua mensagem|not_recognized
-zero seis seis não está disponível após o sinal gravação boa tarde mensagem|not_recognized
+zero seis seis não está disponível após o sinal gravação|not_recognized
+é é|yes
+ela deu uma saidinha|not_here
+ela faleceu|not_recognized
+tá|yes
+a sua gravação é muito curta por favor tente novamente|not_recognized
+a puta que pariu|not_recognized
+não ligou errado|unknow
+não minha filha|no
+não minha filha não|no
+o seu recado assim que|not_recognized
+oito um dois seis não está disponível após o sinal|not_recognized
+fala filha|yes
+isso alô|yes
+já falei aqui não tem nenhum|unknow
+nome de quê|doubt
+não esse número não é dela|no
+não esse telefone não é dela|no
+filha da puta|not_recognized
+não filha dela|not_here
+não moça|no
+não senhor|no
+não sou|no
+mas|not_recognized
+sim quem é|yes
+sim porque|yes
+sim pode|yes
+só|not_recognized
+sou eu sou eu sou eu|yes
+tá não|no
+vamos|not_recognized
