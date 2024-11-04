@@ -751,7 +751,6 @@ vai tomar no cú que fuder|not_recognized
 boa noite|doubt
 boa noite à noite|doubt
 morreu não|not_recognized
-oh|doubt
 ok|doubt
 vai tomar no cu|not_recognized
 ai|doubt
@@ -801,7 +800,6 @@ fala pois não|yes
 falando com ele|yes
 fale que é|yes
 mensagem após o sinal você pode desligar quando terminar a gravação tá|not_recognized
-moça|doubt
 não acho que você ligou errado|unknow
 não eu sou o filho dele|no
 não eu sou sobrinho dele|no
@@ -820,7 +818,6 @@ oito dois cinco não está disponível após o sinal|not_recognized
 oito dois cinco seis não está disponível esse sinal gravações|not_recognized
 oito quatro não está disponível após o sinal grave a sua mensagem|not_recognized
 oito sete dois zero não está disponível após o sinal grave a sua mensagem|not_recognized
-olha|doubt
 poderia repetir o nome por favor|doubt
 quatro oito três seis não está disponível após o sinal grave a sua|not_recognized
 quatro zero seis quatro não está disponível após o sinal|not_recognized
@@ -881,3 +878,18 @@ só|not_recognized
 sou eu sou eu sou eu|yes
 tá não|no
 vamos|not_recognized
+porque|doubt
+porquê|doubt
+está|yes
+diga alô|yes
+é ela quem deseja|yes
+é ele alô|yes
+é ele quem quer falar|yes
+é irmã dele|not_here
+ela não tá aqui|not_here
+mora aqui não|unknow
+eu mesmo|yes
+eu mesma|yes
+sete zero sete sete não está disponível após o sinal|not_recognized
+porra|not_recognized
+já falei que não|no
