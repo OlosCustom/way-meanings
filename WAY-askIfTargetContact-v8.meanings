@@ -1,16 +1,8 @@
-ai|doubt
-ai não|doubt
-ai não aqui não tem não|doubt
 alô|doubt
 alô alô|doubt
 boa noite|doubt
-boa noite à noite|doubt
-boa noite aqui já que não é boa tarde|doubt
-boa noite não assim quer falar com brenda não nem conheço|doubt
-boa noite quem quer falar com ela|doubt
 boa tarde|doubt
 bom dia|doubt
-certo|doubt
 com quem|doubt
 com quem você quer falar|doubt
 como|doubt
@@ -21,18 +13,10 @@ de onde|doubt
 de onde é|doubt
 de onde fala|doubt
 do que se trata|doubt
-e|doubt
 então|doubt
 gostaria de falar com quem|doubt
-gostaria de falar com quem você quer falar|doubt
 não entendi|doubt
-nome de quê|doubt
 o que|doubt
-o que que você quer com maria|doubt
-oi|doubt
-ok|doubt
-okay|doubt
-okay josé o quê|doubt
 poderia repetir o nome por favor|doubt
 pois não quem gostaria|doubt
 porque|doubt
@@ -67,7 +51,6 @@ sim quem gostaria|doubt
 sobre o que|doubt
 sobre o que foi|doubt
 sobre o que mesmo|doubt
-tá bom|doubt
 tudo|doubt
 tudo bem|doubt
 tudo bem alô|doubt
@@ -154,7 +137,6 @@ não sou eu não|no
 não sou eu não não|no
 negativo|no
 tá não|no
-tá não tá falando com o nome não|no
 é a esposa|not_here
 é a esposa dela|not_here
 é a esposa dele|not_here
@@ -348,7 +330,6 @@ ela não pode falar no momento|not_here
 ela não se encontra|not_here
 ela não se encontra no momento|not_here
 ela não tá aqui|not_here
-ela não tá aqui mas então nome|not_here
 ela saiu|not_here
 ela viajou|not_here
 ele é meu esposo|not_here
@@ -601,6 +582,7 @@ a puta que pariu|not_recognized
 a sua gravação é muito curta por favor tente novamente|not_recognized
 agora esta chamada está sendo gravada|not_recognized
 ah disponível após o sinal grave a sua mensagem digite qualquer deixa eu te falar|not_recognized
+ai|not_recognized
 amigo ele morreu|not_recognized
 após o sinal você pode desligar quando terminar a gravação|not_recognized
 cinco|not_recognized
@@ -611,11 +593,9 @@ digite um para ouvir a gravação digite|not_recognized
 dois cinco seis não está disponível após o sinal não agradeço por gentileza|not_recognized
 dois seis não está disponível após o sinal grave a sua mensagem dezessete|not_recognized
 dois zero não está disponível após o sinal grave a sua mensagem digite agora|not_recognized
+e|not_recognized
 ela faleceu|not_recognized
 ela morreu|not_recognized
-ela morreu de casa maneira|not_recognized
-ela morreu recebe no dia foi hoje|not_recognized
-esse número que cê tá falando|not_recognized
 filha da puta|not_recognized
 mas|not_recognized
 mensagem após o sinal você pode desligar quando terminar a gravação tá|not_recognized
@@ -629,11 +609,14 @@ nove três oito quatro não está disponível eu preciso final gravação|not_re
 nove três oito quatro não está disponível pode pode ser final gravações momento|not_recognized
 nove um zero seis seis não está disponível após o sinal|not_recognized
 o seu recado assim que|not_recognized
+oi|not_recognized
 oito dois cinco não está disponível após o sinal|not_recognized
 oito dois cinco seis não está disponível esse sinal gravações|not_recognized
 oito quatro não está disponível após o sinal grave a sua mensagem|not_recognized
 oito sete dois zero não está disponível após o sinal grave a sua mensagem|not_recognized
 oito um dois seis não está disponível após o sinal|not_recognized
+ok|not_recognized
+okay|not_recognized
 porra|not_recognized
 quatro oito três seis não está disponível após o sinal grave a sua|not_recognized
 quatro zero seis quatro não está disponível após o sinal|not_recognized
@@ -644,6 +627,7 @@ sete seis nove três oito quatro tá disponível|not_recognized
 sete sete três um zero não está disponível após o sinal|not_recognized
 sete zero sete sete não está disponível após o sinal|not_recognized
 só|not_recognized
+tá bom|not_recognized
 tá disponível grave a sua mensagem após o sinal você pode desligar ligar quando terminar|not_recognized
 três oito dois seis não está disponível após o sinal|not_recognized
 três seis não está disponível após o sinal grave a sua mensagem|not_recognized
@@ -767,6 +751,8 @@ telefone não é dela|unknow
 você ligou errado|unknow
 você ligou no número errado|unknow
 você ligou para o telefone errado|unknow
+conheço não		unknown
+certo|yes
 correto|yes
 diga|yes
 diga alô|yes
@@ -879,7 +865,6 @@ sou eu sou eu|yes
 sou eu sou eu sou eu|yes
 tá|yes
 tá falando|yes
-tá falando com o nome|yes
 tá porque|yes
 tá senhora|yes
 você está falando com ela|yes
